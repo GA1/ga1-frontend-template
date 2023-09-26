@@ -1,4 +1,5 @@
 import { average } from './stats-utils'
+import { describe, expect, test } from 'vitest'
 
 describe('stats-utils', () => {
   test('average', () => {
