@@ -5,7 +5,7 @@ export const Home = () => (
     <div className='flex w-full flex-col items-center justify-between gap-6 text-center lg:flex-row lg:text-left'>
       <h2 className='flex w-full justify-center text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl'>
         <span className='w-96 text-center'>
-          Vite + React + Typescript + TailwindCSS + React Router + Redux + Redux Toolkit + Eslint + Prettier + Jest
+          Vite + React + Typescript + TailwindCSS + React Router + Redux + Redux Toolkit + Eslint + Prettier + Vitest
         </span>
       </h2>
     </div>
