@@ -1,5 +1,7 @@
 ## GA1 template
 
+Vite + React + Typescript + TailwindCSS + React Router + Redux + Redux Toolkit + Eslint + Prettier + Vitest
+
 
 install dependencies
 ```
